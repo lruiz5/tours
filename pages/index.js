@@ -1,4 +1,4 @@
-import Nav from "@/components/nav";
+import Nav from "@/components/Nav";
 import About from "@/components/About";
 import Header from "@/components/Header";
 import Features from "@/components/Features";
