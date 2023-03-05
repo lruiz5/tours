@@ -15,8 +15,8 @@ const Stories = () => {
         <div className="story">
           <figure className="story__shape">
             <img
-              srcSet="/images/nat-8.jpg 600w, /images/nat-8-large.jpg 2000w"
-              src="/images/nat-8-large.jpg"
+              srcSet="/images/tourist-1-small.jpg 600w, /images/tourist-1.jpg 2000w"
+              src="/images/tourist-1.jpg"
               sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 37.5em"
               alt="tourist"
               className="story__img"
@@ -42,8 +42,8 @@ const Stories = () => {
         <div className="story">
           <figure className="story__shape">
             <img
-              srcSet="/images/nat-9.jpg 600w, /images/nat-9-large.jpg 2000w"
-              src="/images/nat-9-large.jpg"
+              srcSet="/images/tourist-2-small.jpg 600w, /images/tourist-2.jpg 2000w"
+              src="/images/tourist-2.jpg"
               sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 37.5em"
               alt="tourist"
               className="story__img"

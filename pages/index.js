@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Nav from "@/components/Nav";
 import About from "@/components/About";
 import Header from "@/components/Header";
@@ -11,6 +12,12 @@ import PopUp from "@/components/PopUp";
 export default function Home() {
   return (
     <>
+      <Head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Natours | Exciting tours for adventurous people</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <Nav />
       <Header />
       <main>
