@@ -6,7 +6,7 @@ const Header = () => {
       </div>
       <div className="header__text-box">
         <h1 className="heading-primary">
-          <span className="heading-primary--main">Worldventures</span>
+          <span className="heading-primary--main">Traveler</span>
           <span className="heading-primary--sub">Journey beyond</span>
         </h1>
         <a href="#" className="btn btn--white btn--animated">
